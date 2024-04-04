@@ -19,7 +19,7 @@ git clone https://github.com/Prayag-09/DevHub.git
 2. Navigate to the project directory:
 
 ```
-cd paytm-basic-version
+cd devhub
 ```
 
 3. Install dependencies:
