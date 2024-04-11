@@ -1,11 +1,15 @@
-import { ReactNode } from "react"
-
-const Layout = ({children} : {children : ReactNode}) => {
+import { ClerkProvider } from "@clerk/nextjs";
+import React from "react";
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
   return (
-    <main>
-      {children}
-    </main>
-  )
+    <ClerkProvider>
+      <html lang="en">
+        <body  className="flex font-semibold">{children}</body>
+      </html>
+    </ClerkProvider>
+  );
 }
-
-export default Layout
