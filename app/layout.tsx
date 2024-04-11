@@ -8,7 +8,7 @@ export default function RootLayout({
   return (
     <ClerkProvider>
       <html lang="en">
-        <body  className="flex font-semibold">{children}</body>
+        <body>{children}</body>
       </html>
     </ClerkProvider>
   );
