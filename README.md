@@ -4,7 +4,9 @@ Welcome to DevHub !!
 
 ## Description
 
-DevHub is a collaborative platform designed to streamline your development workflow. Whether you're a seasoned developer or just starting out, DevHub provides the tools and resources you need to build amazing projects. From project management to code collaboration, documentation, and more, DevHub has got you covered. Join our community of developers and unleash your full potential with DevHub. Let's code together! 🚀
+DevHub is a collaborative platform designed to streamline your development workflow. Whether you're a seasoned developer or just starting out, DevHub provides the tools and resources you need to build amazing projects. From project management to code collaboration, documentation, and more, DevHub has got you covered. 
+
+Join our community of developers and unleash your full potential with DevHub. Let's code together!
 
 ## Installation
 
